@@ -24,13 +24,13 @@ Hands-on fundamentals covering Windows and Linux environments.
 
 | # | Lab / Room | Status |
 |---|---|---|
-| 01 | [Intro to Linux]([Cybersecurity-Ghost/Linux/01-Intro-to-Linux/](https://cybersecurityghost.tech/achievement/intro-to-linux/kapilsaini)) | ✅ Completed |
+| 01 | [Intro to Linux](https://cybersecurityghost.tech/achievement/intro-to-linux/kapilsaini) | ✅ Completed |
 | 02 | [Distributions & Hacker's Choice](https://cybersecurityghost.tech/achievement/distributions-hackers-choice/kapilsaini) | ✅ Completed |
-| 03 | [File System Hierarchy](Cybersecurity-Ghost/Linux/03-File-System-Hierarchy/) | ✅ Completed |
-| 04 | [Commands & Navigation](Cybersecurity-Ghost/Linux/04-Commands-and-Navigation/) | ✅ Completed |
-| 05 | [File Viewing & Searching](Cybersecurity-Ghost/Linux/05-File-Viewing-and-Searching/) | ✅ Completed |
-| 06 | [Text Manipulation](Cybersecurity-Ghost/Linux/06-Text-Manipulation/) | ✅ Completed |
-| 07 | [User Management](Cybersecurity-Ghost/Linux/07-User-Management/) | ✅ Completed |
+| 03 | [File System Hierarchy](https://cybersecurityghost.tech/achievement/file-system-hierarchy/kapilsaini) | ✅ Completed |
+| 04 | [Commands & Navigation](https://cybersecurityghost.tech/achievement/commands-navigation/kapilsaini) | ✅ Completed |
+| 05 | [File Viewing & Searching](https://cybersecurityghost.tech/achievement/file-viewing-searching/kapilsaini) | ✅ Completed |
+| 06 | [Text Manipulation](https://cybersecurityghost.tech/achievement/text-manipulation/kapilsaini) | ✅ Completed |
+| 07 | [User Management](https://cybersecurityghost.tech/achievement/user-management/kapilsaini) | ✅ Completed |
 
 **Linux Progress:** 7 rooms completed
 
