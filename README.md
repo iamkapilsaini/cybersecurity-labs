@@ -24,8 +24,8 @@ Hands-on fundamentals covering Windows and Linux environments.
 
 | # | Lab / Room | Status |
 |---|---|---|
-| 01 | [Intro to Linux](Cybersecurity-Ghost/Linux/01-Intro-to-Linux/) | ✅ Completed |
-| 02 | [Distributions & Hacker's Choice](Cybersecurity-Ghost/Linux/02-Distributions-and-Hackers-Choice/) | ✅ Completed |
+| 01 | [Intro to Linux]([Cybersecurity-Ghost/Linux/01-Intro-to-Linux/](https://cybersecurityghost.tech/achievement/intro-to-linux/kapilsaini)) | ✅ Completed |
+| 02 | [Distributions & Hacker's Choice](https://cybersecurityghost.tech/achievement/distributions-hackers-choice/kapilsaini) | ✅ Completed |
 | 03 | [File System Hierarchy](Cybersecurity-Ghost/Linux/03-File-System-Hierarchy/) | ✅ Completed |
 | 04 | [Commands & Navigation](Cybersecurity-Ghost/Linux/04-Commands-and-Navigation/) | ✅ Completed |
 | 05 | [File Viewing & Searching](Cybersecurity-Ghost/Linux/05-File-Viewing-and-Searching/) | ✅ Completed |
