@@ -1,144 +1,89 @@
 # 🔐 Cybersecurity Labs
 
-A collection of my hands-on cybersecurity lab solutions, practical exercises, and learning progress across different cybersecurity platforms.
+Welcome to my Cybersecurity Labs repository — a collection of my hands-on cybersecurity practice, lab solutions, notes, and learning progress.
 
-This repository documents the labs I have completed while building practical skills in cybersecurity.
-
----
-
-## 📚 Lab Platforms
-
-### 🟠 OverTheWire
-
-#### Bandit
-
-Linux command-line and security fundamentals through the Bandit wargame.
-
-| Levels | Status |
-|---|---|
-| [Level 0–11](https://medium.com/@iamkapilsaini/overthewire-bandit-complete-walkthrough-levels-0-to-11-a5c157ab7b71) | ✅ Completed |
-| [Level 12-22](https://medium.com/@iamkapilsaini/overthewire-bandit-levels-12-22-complete-walkthrough-2b8f8d5696e8) | ✅ Completed |
-| [Level 23-33](https://medium.com/@iamkapilsaini/overthewire-bandit-levels-23-33-complete-walkthrough-60fb8573221b) | ✅ Completed |
-
-[View Bandit Labs →] [OverTheWire/Bandit/](https://overthewire.org/wargames/bandit/)
+This repository documents my journey of building practical cybersecurity skills through CTF challenges, security labs, Linux/Windows environments, and web security practice.
 
 ---
 
-### 🟢 Cybersecurity Ghost
+# 👨‍💻 About Me
 
-Hands-on fundamentals covering Windows and Linux environments.
+Hi, I'm Kapil Saini, an aspiring Cybersecurity Professional focused on developing practical skills through hands-on labs and security challenges.
 
-#### 🪟 Windows
+### I'm currently building my foundation across areas such as:
 
-| # | Lab / Room | Status |
-|---|---|---|
-| 01 | [Windows Architecture](https://cybersecurityghost.tech/achievement/windows-architecture/kapilsaini) | ✅ Completed |
-| 02 | [CLI Showdown – CMD vs PowerShell](https://cybersecurityghost.tech/achievement/cli-showdown-cmd-vs-powershell/kapilsaini) | ✅ Completed |
-| 03 | [Users, Groups & the SAM File](https://cybersecurityghost.tech/achievement/trypwnme-one/kapilsaini) | ✅ Completed |
+🐧 Linux & Linux Security
 
-#### 🐧 Linux
+🪟 Windows Security
 
-| # | Lab / Room | Status |
-|---|---|---|
-| 01 | [Intro to Linux](https://cybersecurityghost.tech/achievement/intro-to-linux/kapilsaini) | ✅ Completed |
-| 02 | [Distributions & Hacker's Choice](https://cybersecurityghost.tech/achievement/distributions-hackers-choice/kapilsaini) | ✅ Completed |
-| 03 | [File System Hierarchy](https://cybersecurityghost.tech/achievement/file-system-hierarchy/kapilsaini) | ✅ Completed |
-| 04 | [Commands & Navigation](https://cybersecurityghost.tech/achievement/commands-navigation/kapilsaini) | ✅ Completed |
-| 05 | [File Viewing & Searching](https://cybersecurityghost.tech/achievement/file-viewing-searching/kapilsaini) | ✅ Completed |
-| 06 | [Text Manipulation](https://cybersecurityghost.tech/achievement/text-manipulation/kapilsaini) | ✅ Completed |
-| 07 | [User Management](https://cybersecurityghost.tech/achievement/user-management/kapilsaini) | ✅ Completed |
+🌐 Networking
 
-**Linux Progress:** 7 rooms completed
+🔐 Cybersecurity Fundamentals
+
+🧪 Vulnerability Analysis
+
+🌐 Web Application Security
+
+💻 Command-Line & System Administration
+
+🕵️ Capture The Flag (CTF) Challenges
+
+
+My approach is learn → practice → document → improve.
+
+Instead of only studying cybersecurity concepts theoretically, I use practical labs and challenges to understand how security concepts actually work in real environments.
+
+---
+
+# 📂 About This Repository
+
+This repository serves as my cybersecurity learning and practical portfolio.
+
+### Here I document:
+
+✅ Completed cybersecurity labs
+
+🧪 CTF challenges and solutions
+
+📝 Important commands and techniques
+
+💻 Linux and Windows exercises
+
+🔎 Security concepts learned through practice
+
+📸 Screenshots and evidence of completed labs
+
+📚 Notes and references for future revision
+
+
+The repository will continuously grow as I complete more labs and explore new areas of cybersecurity.
+
+This is a learning repository. The goal is not only to complete labs, but to understand the concepts behind them.
 
 ---
 
 
-### 🔵 TryHackMe
+# 📚 Lab Platforms
 
-Hands-on cybersecurity rooms covering different areas of security.
+## 🟠 OverTheWire Labs -
 
-| Category | Status |
-|---|---|
-| Fundamentals | ⏳ Coming Soon |
-| Linux | ⏳ Coming Soon |
-| Windows | ⏳ Coming Soon |
-| Networking | ⏳ Coming Soon |
-| Web Security | ⏳ Coming Soon |
-
-[View TryHackMe Labs →](TryHackMe/)
+    Bandit - All (0-33) Level Completed ✅ 
 
 ---
+## 🟢 Cybersecurity Ghost Labs -
 
-### 🟣 PortSwigger Web Security Academy
+    🪟 Windows  --  Completed ✅
 
-Practical web application security labs.
-
-| Topic | Status |
-|---|---|
-| SQL Injection | ⏳ Coming Soon |
-| Cross-Site Scripting (XSS) | ⏳ Coming Soon |
-| Authentication | ⏳ Coming Soon |
-| Access Control | ⏳ Coming Soon |
-| File Upload Vulnerabilities | ⏳ Coming Soon |
-
-[View PortSwigger Labs →](PortSwigger/)
+    🐧 Linux    --  Completed ✅
 
 ---
+## 🔵 TryHackMe Labs -
 
-# 🧠 Skills Practiced
+    In Progress ...
 
-This repository will gradually cover:
-
-- 🐧 Linux
-- 🪟 Windows
-- 🌐 Networking
-- 💻 Command Line
-- 👤 User & Group Management
-- 🔐 Permissions & Access Control
-- 🔎 File & Information Discovery
-- 📝 Text Processing
-- 🌐 Web Security
-- 💉 SQL Injection
-- 🕸️ Cross-Site Scripting (XSS)
-- 🔑 Authentication & Authorization
-- 🛡️ Security Fundamentals
-- 🧪 Vulnerability Analysis
 
 ---
+## 🟣 PortSwigger Web Security Academy Labs -
 
-# 📂 Repository Structure
-
-```text
-cybersecurity-labs/
-│
-├── README.md
-│
-├── Cybersecurity-Ghost/
-│   │
-│   ├── Linux/
-│   │   ├── 01-Intro-to-Linux/
-│   │   │   ├── README.md
-│   │   │   └── screenshot.png
-│   │   │
-│   │   ├── 02-Distributions-and-Hackers-Choice/
-│   │   │   ├── README.md
-│   │   │   └── screenshot.png
-│   │   │
-│   │   ├── 03-File-System-Hierarchy/
-│   │   ├── 04-Commands-and-Navigation/
-│   │   ├── 05-File-Viewing-and-Searching/
-│   │   ├── 06-Text-Manipulation/
-│   │   └── 07-User-Management/
-│   │
-│   └── Windows/
-│       └── ...
-│
-├── OverTheWire/
-│   └── Bandit/
-│       └── ...
-│
-├── TryHackMe/
-│   └── ...
-│
-└── PortSwigger/
-    └── ...
+    In progress ...
+    
